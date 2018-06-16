@@ -5,7 +5,7 @@ In this project we are given a web-based application that reads RSS feeds by Uda
 
 ## Instalation
 
-Clone the repository using git clone https://github.com/Mossvtc/Feed-Reader.git
+Clone the repository using git clone https://github.com/Mossvtc/feed-reader.git
 
 Open index.html in your browser.
 
